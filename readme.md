@@ -1,8 +1,9 @@
-# chum2025
 # A_HDE
 Advanced Humor Detection Examples. A dataset for humor detection in Russian language.
 
-## Column Names
+Supplementary of the BA thesis of Arseny Anisimov and for the application for the Workshop on Computational Humor.
+
+## Column Names in the Dataset
 * `num`  number of the near duplicate group
 * `setup`  set-up, the first part of the text
 * `punch`  punchline, the last part of the text
